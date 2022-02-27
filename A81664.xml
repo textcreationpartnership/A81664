@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>For the right noble, Sir Balthazer Gerbier Knight: from the Lady Eleanor</title>
+            <author>Eleanor, Lady, d. 1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81664</idno>
+            <idno type="STC">Wing D1989B</idno>
+            <idno type="STC">ESTC R231422</idno>
+            <idno type="EEBO-CITATION">99897296</idno>
+            <idno type="PROQUEST">99897296</idno>
+            <idno type="VID">137024</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81664)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137024)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2481:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>For the right noble, Sir Balthazer Gerbier Knight: from the Lady Eleanor</title>
+                  <author>Eleanor, Lady, d. 1652.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gerbier, Balthazar, --  Sir, 1592?-1667 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:137024:1"/>
+            <p>For the Right Noble, Sir Balthazer Gerbier KNIGHT: From the Lady <hi>Eleanor.</hi>
+            </p>
+            <q>
+               <bibl>Iſa. 30.9, 10.</bibl>
+               <p>
+                  <hi>This is a rebellious people, lying chil<g ref="char:EOLhyphen"/>dren, that will not hear the Law of the Lord.</hi>
+               </p>
+               <p>
+                  <hi>Which ſay to the Seers, See not; and to the Prophets, Propheſie not unto us right things: ſpeak unto us ſmooth things, propheſie deceits.</hi>
+               </p>
+            </q>
+            <p>Printed in the Year 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:137024:2"/>
+            <head>For the Right Noble, Sir Balthazer Gerbier Knight: From the Lady <hi>Eleanor.</hi>
+            </head>
+            <p>
+               <hi>SIr,</hi> Having Intelligence of your Academy near the City, in imi<g ref="char:EOLhyphen"/>tation of <hi>Paradice,</hi> wherein of Rari<g ref="char:EOLhyphen"/>ties ſuch variety; and not at all doubt<g ref="char:EOLhyphen"/>ing, but for his Throne there you have reſerved a place, to whom we owe all our utmoſt ſervice: By your admittance, ſhall for an addition to thoſe requiſite Sciences ſpecified in print by you, preſent the happy place with the <hi>Book of Life, Cum Privile<g ref="char:EOLhyphen"/>gio, Bleſſed that readeth, and they that hear the words, &amp;c. The light
+<pb n="3" facs="tcp:137024:2"/>ſhining in darkneſs, and the darkneſs not comprehending it,</hi> the word of life; to us teſtifying, <hi>If we ſay we have fellowſhip with him, and walk in dark<g ref="char:EOLhyphen"/>neſs, we lye,</hi> &amp;c. (<hi>Joh.</hi> 1.) or <hi>if gainſay what he affirms, we make him a lyar likewiſe:</hi> who although the prophet <hi>Joel</hi> on this wiſe, <hi>afterwards I wil pour out my Spirit upon all fleſh, Men-ſer<g ref="char:EOLhyphen"/>vants and Maid-ſervants, prophecying in thoſe days before the terrible day of the Lord come:</hi> And our Lord him<g ref="char:EOLhyphen"/>ſelf, <hi>Behold, I am with you all days, un<g ref="char:EOLhyphen"/>til the conſummation of the age;</hi> his laſt words or farewel: Notwithſtanding by them of this groſs age, as if any thing too hard for him, taught as an Article of our Creed, ſetting up their pillars, beyond the Apoſtles dayes that the Spirit not tranſmitted extra<g ref="char:EOLhyphen"/>ordinary,
+<pb n="4" facs="tcp:137024:3"/>becauſe of prophecy ceaſ<g ref="char:EOLhyphen"/>ed, therefore extinguiſhed, likewiſe of Miracles, that when thoſe twain, the witneſſes which we expect (<hi>Rev. xi.</hi> ſhall have power ſuch, we may fulfil the prophets, as did they, <hi>Cru<g ref="char:EOLhyphen"/>cifying the Prince of Life;</hi> which great City called <hi>Spiritual Sodom and Egypt,</hi> ſuch ſinfulneſs for, and hard<g ref="char:EOLhyphen"/>neſs of heart, the Gentiles departing from the faith as declares; ſo cannot be the Romiſh Church impeached, but only they to whom <hi>the holy Ghoſt ſent,</hi> moſt like firſt to viſit his own, re<g ref="char:EOLhyphen"/>ſiſting true tokens and ſigns: the ve<g ref="char:EOLhyphen"/>ry unpardonable treſpaſs, to which our Church in a nearer relation, holding in his appointed time <hi>for him any thing too difficult;</hi> in danger with thoſe <hi>vipers,</hi> of <hi>breathing out like va<g ref="char:EOLhyphen"/>pours,</hi>
+               <pb n="5" facs="tcp:137024:3"/>confined to that <hi>Pit</hi> or <hi>Abyſs, Rev.</hi> 9. thoſe heavenly lights obſcu<g ref="char:EOLhyphen"/>ring with Fogs <hi>the third part of them;</hi> the <hi>Sin againſt the third perſon,</hi> that bids of it beware: with that loud voyce from the Iſle of <hi>Patmos, He that hath an ear, hear what the Spirit ſaith,</hi> &amp;c. whileſt <hi>Great Britain</hi> as though a<g ref="char:EOLhyphen"/>ſleep, had a paſs or diſpenſation not concerned in any ſuch Alarms, made their paſtime as <hi>Bedlam</hi> for entertain<g ref="char:EOLhyphen"/>ing the <hi>Holy Ghoſt,</hi> by this City, <hi>&amp;c.</hi> ſuch an offence, <hi>The Word of life, the leaves whereof expels the old Ser<g ref="char:EOLhyphen"/>pents poyſon,</hi> darkneſs for unchange<g ref="char:EOLhyphen"/>able light exchanges, confutes igno<g ref="char:EOLhyphen"/>rance, abates luſt, and the like; like <hi>Pearls caſt before Swine,</hi> &amp;c. Such Grapes and Figs, our Thorn, the Roſe and Thiſtle affords; forewarnd
+<pb n="6" facs="tcp:137024:4"/>though, <hi>Judge not, that ye be not jud<g ref="char:EOLhyphen"/>ged (Matthew</hi> the 7.) for <hi>Lex talionis,</hi> and what Diſtraction and Diviſion of late amongſt them, that think to ſilence, thoſe <hi>Cloven Tongues</hi> to quench them; when as for prevention of which, that Allegory Supper (<hi>Luke</hi> 14.) <hi>A certain man made a great ſupper, bad many, ſent out a ſervant at ſupper time;</hi> with ſleeveleſs excuſes ſet light by, pro<g ref="char:EOLhyphen"/>phetical admonitions, ſo grown out of date: whereas in truth the <hi>letter but dead,</hi> obſerved onely in a Hiſtory way, without the Myſtery going therwith underſtood; company none craves of his, ſaying, <hi>Behold, I ſtand at the door and knock; if any man hear my voice, and open the door, I will come in and ſup with him,</hi> &amp;c. faring there<g ref="char:EOLhyphen"/>after:
+<pb n="7" facs="tcp:137024:4"/>witnes that Summons iſſued forth, ſaying, <hi>Write, Bleſſed are they called to the Lambs ſupper</hi> (Rev. 19.) expreſly ſaid to be <hi>The Spirit of Pro<g ref="char:EOLhyphen"/>phecy</hi> (ver. 10.) <hi>The witneſs of Jeſus;</hi> for contempt of which, the fowls that know their time, they mu<g ref="char:EOLhyphen"/>ſtered, <hi>called to the ſupper of the great God,</hi> thoſe birds of prey, <hi>to eat the fleſh of Kings, the fleſh of Captains, and horſe fleſh, of ſmall and great,</hi> without reſpect of perſons in that carnal eſtate worſe then theirs <hi>lying to the holy ghoſt</hi> Acts, &amp;c. or his folly, he that <hi>offered to buy it with money of the apoſtles,</hi> thus to belye and outface this, ſhed out again ſo impoſsible held, profeſſed <hi>not a man of them ſhould ſo much as taſte thereof,</hi> the excommunication of the Clergies profeſsion foreſhewed, Au<g ref="char:EOLhyphen"/>thor of all our evils.</p>
+            <pb n="8" facs="tcp:137024:5"/>
+            <p>And for this here ſhewed, ſo much, ſuch indignity offered to the holy Spirits feaſt, vouchſafing <hi>to ſup with us;</hi> toward which craving from your ſelf Sir this favor only, <hi>the table to take or<g ref="char:EOLhyphen"/>der may be furniſhed with fine linen and clean,</hi> ſtiled, <hi>The righteouſnes of Sa nts,</hi> the judgement of thoſe Students with you; upon this queſtion, touch<g ref="char:EOLhyphen"/>ing propheſie, ſuppoſed out of re<g ref="char:EOLhyphen"/>queſt, VVhether higher diſobedience in the one, to credit feigned miracles, or not to believe true ones? Alſo when made <hi>death to touch the forbid<g ref="char:EOLhyphen"/>den,</hi> and others rejecting theſe, <hi>The Spirit and the Bride ſaying, Come;</hi> and <hi>Whoſoever will, take of the water of life freely;</hi> which of them deſerving the Name of a Church, or excluded ra<g ref="char:EOLhyphen"/>ther to be out of Paradice.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Auguſt,</hi> 1649.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
